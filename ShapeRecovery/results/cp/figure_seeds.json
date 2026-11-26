@@ -1,0 +1,38 @@
+{
+ "square": {
+  "rep": 57,
+  "aic": "3",
+  "bic": "2",
+  "sel_logn": "2"
+ },
+ "T": {
+  "rep": 11,
+  "aic": "3",
+  "bic": "3",
+  "sel_logn": "3"
+ },
+ "cross": {
+  "rep": 79,
+  "aic": "3",
+  "bic": "3",
+  "sel_logn": "3"
+ },
+ "disk": {
+  "rep": 84,
+  "aic": "3",
+  "bic": "2",
+  "sel_logn": "3"
+ },
+ "triangle": {
+  "rep": 19,
+  "aic": "3",
+  "bic": "2",
+  "sel_logn": "3"
+ },
+ "butterfly": {
+  "rep": 12,
+  "aic": "3",
+  "bic": "1",
+  "sel_logn": "2"
+ }
+}

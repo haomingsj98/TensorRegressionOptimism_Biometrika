@@ -1,0 +1,7 @@
+# Python 3.11 (experiments were run with 3.11.7)
+numpy==1.26.4
+tensorly==0.9.0
+scipy
+pandas
+matplotlib
+pillow

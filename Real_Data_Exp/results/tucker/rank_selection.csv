@@ -1,0 +1,7 @@
+criterion,selected_rank
+test_error,"4,4,3"
+est_test_error,"9,9,3"
+aic,"9,9,3"
+bic,"2,2,2"
+sel_logn,"3,3,3"
+train_error,"9,9,3"
